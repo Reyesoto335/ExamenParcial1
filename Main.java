@@ -1,6 +1,6 @@
 package ParcialI;
 
-public class Ejecutor {
+public class ExamenParcial {
 
     public static void main(String[] args) {
         Ordenes ordenes = new Ordenes();
